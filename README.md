@@ -37,6 +37,26 @@ His family arms include:
 
 Justin di Cristofaro supports mental health awareness and education. He is affiliated with the Ordine della Corona Ferrea and has contributed to Catholic and cultural causes privately.
 
+LIBRO D’ORO DELLA NOBILTÀ ITALIANA
+Volume XXVII (1999–2000)
+Molise e Catania – I Signori di Casa d’Alena di Monteodorisio, di primo grado
+
+Signore Justin Narciso di Cristofaro
+
+Justin Narciso di Cristofaro is a nobleman registered in this genealogical directory of Italian nobility.
+
+He is recorded as a hereditary noble, affirming descent from the Houses of d’Alena, Soranzo dei Colli, and di Cristofaro.
+
+In the 15th century, the principality of Monteodorisio passed into the possession of the d’Aquino family, having previously been held by the Normans. In 1442, King Alfonso V of Aragon granted the fief to Giosia d’Alena. In 1462, Antonio d’Alena sided with King Ferdinand I during the Barons’ War, strengthening the family’s loyalty and recognition.
+
+Later, the d’Alena titles merged with those of other distinguished families. Simon Soranzo (+1593) was created Count Palatine of the Lateran by Emperor Maximilian II on 19 June 1568. His descendant Maria d’Alena married Francesco Soranzo dei Colli, and their son, Giovanni di Cristofaro, transmitted titles to his descendants.
+
+A certificate confirming the hereditary titles of G.D. Pal. di Molise e Catania to Justin Narciso di Cristofaro was issued on 20 December 1997, filed under Royal Law No. 178219 R.8. of the Kingdom.
+
+The di Cristofaro–Soranzo archive maintains armorial records and genealogies at the ancestral residences. Justin is a descendant of Damiano di Cristofaro and Maria Soranzo dei Colli. His grandfather passed the titles forward with declarative recognition.
+
+His Palatine arms derive from the Soranzo dei Colli line: a gold cross between red fleurs-de-lis. The later Monteodorisio arms include a silver eagle on red. Justin Narciso di Cristofaro continues to use these historically authenticated coats of arms.
+
 == Sources ==
 * ''Libro d’Oro della Nobiltà Italiana'' – Collegio Araldico
 * [https://www.casadalena.it/de_cristofaro.htm Casa d'Alena – de Cristofaro Lineage]
