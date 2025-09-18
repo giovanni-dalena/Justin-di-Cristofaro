@@ -1,3 +1,76 @@
+<head...head><!-- Canonical -->
+<link rel="canonical" href="https://github.com/giovanni-dalena/Justin-di-Cristofaro/wiki/Verification" />
+
+<!-- Open Graph -->
+<meta property="og:type" content="profile" />
+<meta property="og:title" content="Verification & Recognition — Justin Narciso Fiamo de Reccia di Cristofaro" />
+<meta property="og:description" content="Independent documentation confirming noble titles, heraldry, and lineage. Not self-styled." />
+<meta property="og:url" content="https://github.com/giovanni-dalena/Justin-di-Cristofaro/wiki/Verification" />
+<meta property="og:image" content="https://raw.githubusercontent.com/giovanni-dalena/Justin-di-Cristofaro/main/assets/jvstin-portrait.jpg" />
+<meta property="og:image:alt" content="Official portrait: JVSTIN" />
+
+<!-- Twitter Card -->
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Verification & Recognition — Justin di Cristofaro" />
+<meta name="twitter:description" content="Stacked third-party citations (Libro d’Oro, CNI, HREA, etc.)." />
+<meta name="twitter:image" content="https://raw.githubusercontent.com/giovanni-dalena/Justin-di-Cristofaro/main/assets/jvstin-portrait.jpg" />
+<meta name="twitter:site" content="@thejustindi" />
+
+<!-- Bing & Google site verification (optional; replace values) -->
+<meta name="msvalidate.01" content="45BE31382C76D3A9F6E995DA4D4AC4B4" />
+<meta name="google-site-verification" content="YOUR_GOOGLE_TOKEN" />
+
+<!-- JSON-LD: Person + Verification WebPage -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Person",
+      "@id": "https://giovanni-dalena.github.io/Justin-di-Cristofaro/#person",
+      "name": "Justin Narciso Fiamo de Reccia di Cristofaro",
+      "alternateName": [
+        "Justin di Cristofaro",
+        "Justin de Reccia di Cristofaro",
+        "Justin Narciso Fiamo di Cristofaro",
+        "Sua Eccellenza Ducale, il Conte Palatino Justin"
+      ],
+      "jobTitle": "Aristocrat, philanthropist, former model",
+      "image": "https://raw.githubusercontent.com/giovanni-dalena/Justin-di-Cristofaro/main/assets/jvstin-portrait.jpg",
+      "sameAs": [
+        "https://github.com/giovanni-dalena/Justin-di-Cristofaro/wiki/Verification",
+        "https://www.wikitree.com/wiki/Di_Cristofaro-20",
+        "https://x.com/thejustindi",
+        "https://www.instagram.com/justin_de_c/"
+      ],
+      "knowsAbout": [
+        "Italian nobility", "Heraldry", "House de Reccia", "House de Cristofaro",
+        "Count Palatine of the Holy Roman Empire", "Medici lineage"
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://github.com/giovanni-dalena/Justin-di-Cristofaro/wiki/Verification",
+      "name": "Verification & Recognition — Justin di Cristofaro",
+      "url": "https://github.com/giovanni-dalena/Justin-di-Cristofaro/wiki/Verification",
+      "isPartOf": {"@id": "https://giovanni-dalena.github.io/Justin-di-Cristofaro/#website"},
+      "about": {"@id": "https://giovanni-dalena.github.io/Justin-di-Cristofaro/#person"},
+      "description": "Independent documentation confirming noble titles, heraldry, and lineage."
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://giovanni-dalena.github.io/Justin-di-Cristofaro/#website",
+      "name": "Justin di Cristofaro — Official",
+      "url": "https://giovanni-dalena.github.io/Justin-di-Cristofaro/",
+      "publisher": {"@id": "https://giovanni-dalena.github.io/Justin-di-Cristofaro/#person"}
+    }
+  ]
+}
+</script>
+
+
+
+
 # Justin-di-Cristofaro
 Justin Narciso Fiamo di Cristofaro di Catania
 
