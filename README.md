@@ -10,6 +10,23 @@ Justin di Cristofaro was born in the United States on February 18, 1990, to a fa
 
 In his youth, he worked briefly as a fashion model and was described in European fashion circles as "sorrowful in silk" for his melancholic elegance. He later withdrew from public life to focus on private philanthropy and historical preservation.
 
+Medici Lineage
+
+His Medici descent traces through Domenico de’ Medici, a member of a cadet line of the Florentine dynasty, who married Isabella de Reccia (an ancestor of Justin). This union connected the House de Reccia–Cristofaro to the ruling House of Medici. This genealogical line has been corroborated in published works such as Storia della Famiglia de Cristofaro (Istituto di Studi Atellani, 2010) and is reflected in his inclusion on WikiTree, which documents Justin among the verified descendants.
+
+Royal Cousinship
+
+Through this lineage, Justin is a blood cousin of:
+	•	Queen Catherine de’ Medici (1519–1589) – Queen of France
+	•	Cosimo I de’ Medici – First Grand Duke of Tuscany
+	•	Pope Leo X and Pope Clement VII – Medici pontiffs
+
+This connection is not symbolic but genealogically documented, making him one of the closest living blood relatives of Catherine de’ Medici today.
+
+Impact on Status
+
+The Medici connection elevates the standing of the House de Reccia–Cristofaro, reinforcing its recognition as part of the Italian and pan-European nobility. It also explains Justin’s inclusion as Count Palatine (Comes Palatinus) under the Holy Roman Empire Association, as the Medici frequently intermarried with imperial families, providing a historical foundation for the title.
+
 == Noble Titles ==
 
 Di Cristofaro holds several hereditary titles, including:
