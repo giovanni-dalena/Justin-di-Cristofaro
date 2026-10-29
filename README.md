@@ -1,166 +1,281 @@
-<head...head><!-- Canonical -->
-<link rel="canonical" href="https://github.com/giovanni-dalena/Justin-di-Cristofaro/wiki/Verification" />
 
-<!-- Open Graph -->
-<meta property="og:type" content="profile" />
-<meta property="og:title" content="Verification & Recognition — Justin Narciso Fiamo de Reccia di Cristofaro" />
-<meta property="og:description" content="Independent documentation confirming noble titles, heraldry, and lineage. Not self-styled." />
-<meta property="og:url" content="https://github.com/giovanni-dalena/Justin-di-Cristofaro/wiki/Verification" />
-<meta property="og:image" content="https://raw.githubusercontent.com/giovanni-dalena/Justin-di-Cristofaro/main/assets/jvstin-portrait.jpg" />
-<meta property="og:image:alt" content="Official portrait: JVSTIN" />
 
-<!-- Twitter Card -->
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Verification & Recognition — Justin di Cristofaro" />
-<meta name="twitter:description" content="Stacked third-party citations (Libro d’Oro, CNI, HREA, etc.)." />
-<meta name="twitter:image" content="https://raw.githubusercontent.com/giovanni-dalena/Justin-di-Cristofaro/main/assets/jvstin-portrait.jpg" />
-<meta name="twitter:site" content="@thejustindi" />
+<!DOCTYPE html>
 
-<!-- Bing & Google site verification (optional; replace values) -->
-<meta name="msvalidate.01" content="45BE31382C76D3A9F6E995DA4D4AC4B4" />
-<meta name="google-site-verification" content="YOUR_GOOGLE_TOKEN" />
+<html lang="en">
 
-<!-- JSON-LD: Person + Verification WebPage -->
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@graph": [
-    {
-      "@type": "Person",
-      "@id": "https://giovanni-dalena.github.io/Justin-di-Cristofaro/#person",
-      "name": "Justin Narciso Fiamo de Reccia di Cristofaro",
-      "alternateName": [
-        "Justin di Cristofaro",
-        "Justin de Reccia di Cristofaro",
-        "Justin Narciso Fiamo di Cristofaro",
-        "Sua Eccellenza Ducale, il Conte Palatino Justin"
-      ],
-      "jobTitle": "Aristocrat, philanthropist, former model",
-      "image": "https://raw.githubusercontent.com/giovanni-dalena/Justin-di-Cristofaro/main/assets/jvstin-portrait.jpg",
-      "sameAs": [
-        "https://github.com/giovanni-dalena/Justin-di-Cristofaro/wiki/Verification",
-        "https://www.wikitree.com/wiki/Di_Cristofaro-20",
-        "https://x.com/thejustindi",
-        "https://www.instagram.com/justin_de_c/"
-      ],
-      "knowsAbout": [
-        "Italian nobility", "Heraldry", "House de Reccia", "House de Cristofaro",
-        "Count Palatine of the Holy Roman Empire", "Medici lineage"
-      ]
-    },
-    {
-      "@type": "WebPage",
-      "@id": "https://github.com/giovanni-dalena/Justin-di-Cristofaro/wiki/Verification",
-      "name": "Verification & Recognition — Justin di Cristofaro",
-      "url": "https://github.com/giovanni-dalena/Justin-di-Cristofaro/wiki/Verification",
-      "isPartOf": {"@id": "https://giovanni-dalena.github.io/Justin-di-Cristofaro/#website"},
-      "about": {"@id": "https://giovanni-dalena.github.io/Justin-di-Cristofaro/#person"},
-      "description": "Independent documentation confirming noble titles, heraldry, and lineage."
-    },
-    {
-      "@type": "WebSite",
-      "@id": "https://giovanni-dalena.github.io/Justin-di-Cristofaro/#website",
-      "name": "Justin di Cristofaro — Official",
-      "url": "https://giovanni-dalena.github.io/Justin-di-Cristofaro/",
-      "publisher": {"@id": "https://giovanni-dalena.github.io/Justin-di-Cristofaro/#person"}
+<head>
+
+  <meta charset="UTF-8">
+
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>Nobile Justin Narciso di Cristofaro dei Medici | House of De Cristofaro</title>
+
+  <meta name="description" content="The History of the House of De Cristofaro and the biography of Nobile Justin Narciso di Cristofaro dei Medici.">
+
+  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=EB+Garamond:wght@400;500;600&display=swap" rel="stylesheet">
+
+  <style>
+
+    :root {
+
+      --background: #100f0d;
+
+      --gold: #c9aa70;
+
+      --text: #e9e0d2;
+
+      --muted: #b7aa96;
+
     }
-  ]
-}
-</script>
 
+    * { box-sizing: border-box; }
 
+    html { scroll-behavior: smooth; }
 
+    body {
 
-# Justin-di-Cristofaro
-Justin Narciso Fiamo di Cristofaro di Catania
+      margin: 0;
 
+      background: var(--background);
 
-'''Justin Narciso Fiamo di Cristofaro di Catania''' (born February 18, 1990) is an Italian-American nobleman, philanthropist, and mental health advocate. He is descended from the historic House de Cristofaro, with noble roots in both the Molise and Sicilian regions of Italy. He holds multiple hereditary titles, documented in the ''Libro d’Oro della Nobiltà Italiana'' and verified by various genealogical sources.
+      color: var(--text);
 
-== Biography ==
+      font-family: "EB Garamond", Georgia, serif;
 
-Justin di Cristofaro was born in the United States on February 18, 1990, to a family with historic Italian nobility. His ancestry traces back to the de Cristofaro family of Monteodorisio (Molise) and Scordia (Catania). His nobility is recognized in the ''Libro d’Oro della Nobiltà Italiana'', with further documentation provided by heraldic registries and genealogical archives.
+      font-size: 21px;
 
-In his youth, he worked briefly as a fashion model and was described in European fashion circles as "sorrowful in silk" for his melancholic elegance. He later withdrew from public life to focus on private philanthropy and historical preservation.
+      line-height: 1.8;
 
-Medici Lineage
+    }
 
-His Medici descent traces through Domenico de’ Medici, a member of a cadet line of the Florentine dynasty, who married Isabella de Reccia (an ancestor of Justin). This union connected the House de Reccia–Cristofaro to the ruling House of Medici. This genealogical line has been corroborated in published works such as Storia della Famiglia de Cristofaro (Istituto di Studi Atellani, 2010) and is reflected in his inclusion on WikiTree, which documents Justin among the verified descendants.
+    header {
 
-Royal Cousinship
+      text-align: center;
 
-Through this lineage, Justin is a blood cousin of:
-	•	Queen Catherine de’ Medici (1519–1589) – Queen of France
-	•	Cosimo I de’ Medici – First Grand Duke of Tuscany
-	•	Pope Leo X and Pope Clement VII – Medici pontiffs
+      padding: 100px 24px 75px;
 
-This connection is not symbolic but genealogically documented, making him one of the closest living blood relatives of Catherine de’ Medici today.
+      border-bottom: 1px solid #55462f;
 
-Impact on Status
+      background: linear-gradient(180deg, #211c15, #100f0d);
 
-The Medici connection elevates the standing of the House de Reccia–Cristofaro, reinforcing its recognition as part of the Italian and pan-European nobility. It also explains Justin’s inclusion as Count Palatine (Comes Palatinus) under the Holy Roman Empire Association, as the Medici frequently intermarried with imperial families, providing a historical foundation for the title.
+    }
 
-== Noble Titles ==
+    .eyebrow {
 
-Di Cristofaro holds several hereditary titles, including:
+      font-family: Cinzel, Georgia, serif;
 
-* Signore di Monteodorisio
-* Conte della Scordia
-* Count Palatine of the Holy Roman Empire
-* Barone di San Marzano sul Sarno
-* Signore di Casalnuovo d’Alena
-* Nobil Huomo di Venezia
-* Signore di Piove di Sacco
-* Signore di Motta San Giovanni
-* Cavaliere Ereditario del Regno di Sicilia
-* Nobile di Catanzaro
+      font-size: 12px;
 
-== Heraldry ==
+      letter-spacing: 4px;
 
-His family arms include:
+      text-transform: uppercase;
 
-* '''Molise branch''': Azure, a fess Or supporting two doves argent respectant
-* '''Catania branch''': Argent, a lion rampant gules crowned Or; in chief a cross pattée sable
-* '''Personal arms''': Quartered arms beneath a crowned helm with the monogram "JCN" and a noble spider
+      color: var(--gold);
 
-== Public Work and Advocacy ==
+    }
 
-Justin di Cristofaro supports mental health awareness and education. He is affiliated with the Ordine della Corona Ferrea and has contributed to Catholic and cultural causes privately.
+    h1, h2, h3 {
 
-LIBRO D’ORO DELLA NOBILTÀ ITALIANA
-Volume XXVII (1999–2000)
-Molise e Catania – I Signori di Casa d’Alena di Monteodorisio, di primo grado
+      font-family: Cinzel, Georgia, serif;
 
-Signore Justin Narciso di Cristofaro
+      font-weight: 400;
 
-Justin Narciso di Cristofaro is a nobleman registered in this genealogical directory of Italian nobility.
+      color: var(--gold);
 
-He is recorded as a hereditary noble, affirming descent from the Houses of d’Alena, Soranzo dei Colli, and di Cristofaro.
+      line-height: 1.45;
 
-In the 15th century, the principality of Monteodorisio passed into the possession of the d’Aquino family, having previously been held by the Normans. In 1442, King Alfonso V of Aragon granted the fief to Giosia d’Alena. In 1462, Antonio d’Alena sided with King Ferdinand I during the Barons’ War, strengthening the family’s loyalty and recognition.
+    }
 
-Later, the d’Alena titles merged with those of other distinguished families. Simon Soranzo (+1593) was created Count Palatine of the Lateran by Emperor Maximilian II on 19 June 1568. His descendant Maria d’Alena married Francesco Soranzo dei Colli, and their son, Giovanni di Cristofaro, transmitted titles to his descendants.
+    h1 {
 
-A certificate confirming the hereditary titles of G.D. Pal. di Molise e Catania to Justin Narciso di Cristofaro was issued on 20 December 1997, filed under Royal Law No. 178219 R.8. of the Kingdom.
+      font-size: clamp(27px, 5vw, 46px);
 
-The di Cristofaro–Soranzo archive maintains armorial records and genealogies at the ancestral residences. Justin is a descendant of Damiano di Cristofaro and Maria Soranzo dei Colli. His grandfather passed the titles forward with declarative recognition.
+      margin: 25px 0;
 
-His Palatine arms derive from the Soranzo dei Colli line: a gold cross between red fleurs-de-lis. The later Monteodorisio arms include a silver eagle on red. Justin Narciso di Cristofaro continues to use these historically authenticated coats of arms.
+    }
 
-== Sources ==
-* ''Libro d’Oro della Nobiltà Italiana'' – Collegio Araldico
-* [https://www.casadalena.it/de_cristofaro.htm Casa d'Alena – de Cristofaro Lineage]
-* [https://www.iagiforum.info/viewtopic.php?p=177006 IAGI Forum – de Cristofaro Lineage Discussion]
-* [https://www.armoriale.it/wiki/Armoriale_delle_famiglie_italiane_(Decr) Armoriale delle famiglie italiane (Decr)]
+    h2 {
 
+      font-size: 25px;
 
+      margin-top: 65px;
 
-== Categories ==
-[[Category:Italian nobility]]
-[[Category:Living people]]
-[[Category:Philanthropists]]
-[[Category:1990 births]]
-[[Category:American people of Italian descent]]
-Justin-di-Cristofaro/
-├── index.html
-├── googlead05062bfd248172.html
+      margin-bottom: 25px;
+
+    }
+
+    h3 {
+
+      font-size: 19px;
+
+      margin-top: 35px;
+
+    }
+
+    .motto {
+
+      font-style: italic;
+
+      letter-spacing: 2px;
+
+      color: var(--muted);
+
+    }
+
+    main {
+
+      max-width: 800px;
+
+      margin: 0 auto;
+
+      padding: 45px 26px 90px;
+
+    }
+
+    p { margin: 0 0 27px; }
+
+    .divider {
+
+      width: 90px;
+
+      height: 1px;
+
+      background: var(--gold);
+
+      margin: 55px auto;
+
+      opacity: 0.7;
+
+    }
+
+    footer {
+
+      text-align: center;
+
+      padding: 40px 20px;
+
+      border-top: 1px solid #55462f;
+
+      color: var(--muted);
+
+      font-size: 16px;
+
+    }
+
+    @media (max-width: 600px) {
+
+      header { padding: 75px 18px 55px; }
+
+      body { font-size: 19px; }
+
+      main { padding: 30px 20px 65px; }
+
+      h2 { font-size: 22px; }
+
+    }
+
+  </style>
+
+</head>
+
+<body>
+
+<header>
+
+  <div class="eyebrow">The House of De Cristofaro</div>
+
+  <h1>
+
+    Nobile Justin Narciso<br>
+
+    di Cristofaro dei Medici
+
+  </h1>
+
+  <p class="motto">Umbra Tenet Sanguinem</p>
+
+</header>
+
+<main>
+
+  <h2>The History of the House of De Cristofaro</h2>
+
+  <p>
+
+    The foundations of the lineage were established between the 11th and 14th centuries, originating as a patronymic devotion to Saint Christopher. By the 15th century, the family consolidated its elite status in Eboli, Salerno, where they constructed the fortified Palazzo Cristofaro. As urban patricians, the family held the rare right to maintain a consecrated private chapel within the palace walls—a property that also served as the adolescent home of the 17th-century global diplomat Matteo Ripa and is today preserved as an Italian national cultural monument.
+
+  </p>
+
+  <p>
+
+    As the house expanded its territorial and civic influence into Abruzzi e Molise, the family was formally inscribed in the Registro delle Piazze Chiuse (Register of Closed Assemblies). This membership granted hereditary patrician status, ensuring a vital role in regional civic governance, legislative voting, and judicial administration. The physical anchor of this era was the Castello di Monteodorisio in Chieti, Abruzzo, a massive 11th-century fortress, alongside the neoclassical Palazzo Fanghella-De Cristofaro, which served as the operational headquarters for the family’s private archives and land revenues.
+
+  </p>
+
+  <p>
+
+    The noble standing of the house was heavily reinforced through prominent dynastic alliances:
+
+  </p>
+
+  <h3>The House of Medici</h3>
+
+  <p>
+
+    On October 14, 1829, Lorenzo de Cristofaro married Donna Maria de’ Medici, a noble daughter of the historic Medici of Formicola cadet branch in Caserta. This alliance directly embedded the bloodline of the legendary patrons of the Italian Renaissance into the family tree.
+
+  </p>
+
+  <h3>The House de Florio</h3>
+
+  <p>
+
+    An alliance with this medieval dynasty—recognized among the elite Baronial Houses of the South since 1239—linked the family to the historic Baronies of Montagano in Molise.
+
+  </p>
+
+  <div class="divider"></div>
+
+  <h2>The New World Metamorphosis</h2>
+
+  <p>
+
+    Following the 1860 annexation of the South by the northern House of Savoy, the family maintained strict loyalty to the fallen Bourbon Crown. Faced with punitive real estate taxation that fractured their ancestral estates, the family chose a path of proud defiance. In the early 20th century, Pasquale De Cristofaro and his wife Nicoletta “Helen” de Florio initiated a strategic relocation to the United States, settling in Schenectady, New York.
+
+  </p>
+
+  <p>
+
+    In America, the family translated their traditional instinct for leadership into community mutual aid. They became the continuous operational and financial anchors of The Abruzzese Society of Schenectady, providing a crucial safety net for immigrant factory workers at General Electric and ALCO. This century-old archive was permanently donated to the Grems-Doolittle Library at the Schenectady County Historical Society in 2016, permanently preserving the family’s civic legacy.
+
+  </p>
+
+  <p>
+
+    The twentieth-century stewardship culminated with Justin’s grandfather, Joseph DiCristofaro, who extended the family’s visionary leadership into the frontiers of modern science by pioneering and managing the first dedicated nuclear medicine diagnostic unit in the southern United States on November 24, 1974.
+
+  </p>
+
+  <div class="divider"></div>
+
+  <p>
+
+    Today, Nobile Justin Narciso di Cristofaro dei Medici represents a contemporary generation of the House of De Cristofaro. An eccentric and notably private American philanthropist, he maintains a reclusive existence, preferring discretion in his personal and charitable affairs while remaining connected to the family’s centuries-old traditions.
+
+  </p>
+
+</main>
+
+<footer>
+
+  <p>House of De Cristofaro</p>
+
+  <p class="motto">Umbra Tenet Sanguinem</p>
+
+</footer>
+
+</body>
+
+</html
