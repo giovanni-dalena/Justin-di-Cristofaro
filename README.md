@@ -1,281 +1,111 @@
 
+# Nobile Justin Narciso di Cristofaro dei Medici
 
-<!DOCTYPE html>
+### The House of De Cristofaro
 
-<html lang="en">
 
-<head>
 
-  <meta charset="UTF-8">
+---
 
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+## Biographical Record
 
-  <title>Nobile Justin Narciso di Cristofaro dei Medici | House of De Cristofaro</title>
+**Justin Narciso di Cristofaro dei Medici** is a private American philanthropist associated with the House de Cristofaro, an Italian family whose recorded history and genealogical traditions extend across southern Italy.
 
-  <meta name="description" content="The History of the House of De Cristofaro and the biography of Nobile Justin Narciso di Cristofaro dei Medici.">
+Known for his reclusive disposition and preference for discretion, Justin maintains a largely private personal and philanthropic life.
 
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;500;600&family=EB+Garamond:wght@400;500;600&display=swap" rel="stylesheet">
+This repository serves as a reference point for his biographical record and the historical and genealogical materials associated with the family.
 
-  <style>
+---
 
-    :root {
+## The House of De Cristofaro
 
-      --background: #100f0d;
+The history of the de Cristofaro family encompasses branches associated with Campania, Abruzzo, Molise, and Sicily.
 
-      --gold: #c9aa70;
+Family historical accounts identify connections with the urban patriciate of southern Italy, including the territories formerly administered under the Kingdom of Naples and subsequently the Kingdom of the Two Sicilies.
 
-      --text: #e9e0d2;
+The family's recorded history includes associations with Eboli, Formicola, Monteodorisio, and other communities throughout the Italian peninsula.
 
-      --muted: #b7aa96;
+### The Medici Connection
 
-    }
+A central genealogical reference identifies a marriage dated **14 October 1829**, at Formicola, Caserta, between:
 
-    * { box-sizing: border-box; }
+**Lorenzo de Cristofaro**
 
-    html { scroll-behavior: smooth; }
+and
 
-    body {
+**Donna Maria de' Medici**
 
-      margin: 0;
+This marriage is identified in the family genealogy as an alliance between the de Cristofaro family and the Medici family of Formicola.
 
-      background: var(--background);
+The relationship of the Formicola branch to other historical Medici lines is a subject for documentary genealogical research.
 
-      color: var(--text);
+### The de Florio Connection
 
-      font-family: "EB Garamond", Georgia, serif;
+The family genealogy also records an alliance with the de Florio family.
 
-      font-size: 21px;
+Among the ancestors identified in the American branch are **Pasquale de Cristofaro** and his wife **Nicoletta de Florio**, whose migration to the United States forms part of the family's twentieth-century history.
 
-      line-height: 1.8;
+---
 
-    }
+## The American Branch
 
-    header {
+During the early twentieth century, members of the de Cristofaro family emigrated from Italy to the United States.
 
-      text-align: center;
+The American family history includes settlement in Schenectady, New York, and subsequent generations established elsewhere in the United States.
 
-      padding: 100px 24px 75px;
+The family's historical narrative includes participation in Italian-American community life and professional pursuits across successive generations.
 
-      border-bottom: 1px solid #55462f;
+---
 
-      background: linear-gradient(180deg, #211c15, #100f0d);
+## Genealogical and Historical Research
 
-    }
+The genealogical record draws upon family accounts, historical references, archival materials, and continuing research.
 
-    .eyebrow {
+Historical statements should be evaluated according to their supporting documentation. Family traditions, recorded relationships, and independently corroborated historical facts are distinguished where appropriate.
 
-      font-family: Cinzel, Georgia, serif;
+Additional documentation may be incorporated as research continues.
 
-      font-size: 12px;
+---
 
-      letter-spacing: 4px;
+## Biographical and Archival References
 
-      text-transform: uppercase;
+### Principal Biography
 
-      color: var(--gold);
+[Justin di Cristofaro dei Medici — GitHub Wiki](https://github.com/giovanni-dalena/Justin-di-Cristofaro/wiki)
 
-    }
+### Permanent Archival Record
 
-    h1, h2, h3 {
+[Permanent.org — Biographical and Genealogical Record](https://app.permanent.org/p/archive/0lnc-0000/0lnc-0004/2333258/record/0lnc-0007)
 
-      font-family: Cinzel, Georgia, serif;
+### Internet Archive
 
-      font-weight: 400;
+[Internet Archive — Earlier Archived Edition](https://archive.org/details/0lnc-0006)
 
-      color: var(--gold);
+---
 
-      line-height: 1.45;
+## Names and Historical Variants
 
-    }
+The family name appears in historical and contemporary references under several orthographic forms, including:
 
-    h1 {
+- de Cristofaro
+- De Cristofaro
+- di Cristofaro
+- DiCristofaro
 
-      font-size: clamp(27px, 5vw, 46px);
+These variations may reflect regional usage, administrative transcription, and changes across generations.
 
-      margin: 25px 0;
+The principal biographical name used in this repository is **Justin Narciso di Cristofaro dei Medici**.
 
-    }
+---
 
-    h2 {
+## Archival Purpose
 
-      font-size: 25px;
+This repository provides public access to biographical and genealogical reference material associated with Justin Narciso di Cristofaro dei Medici and the House de Cristofaro.
 
-      margin-top: 65px;
 
-      margin-bottom: 25px;
 
-    }
+---
 
-    h3 {
+*House de Cristofaro*
 
-      font-size: 19px;
 
-      margin-top: 35px;
-
-    }
-
-    .motto {
-
-      font-style: italic;
-
-      letter-spacing: 2px;
-
-      color: var(--muted);
-
-    }
-
-    main {
-
-      max-width: 800px;
-
-      margin: 0 auto;
-
-      padding: 45px 26px 90px;
-
-    }
-
-    p { margin: 0 0 27px; }
-
-    .divider {
-
-      width: 90px;
-
-      height: 1px;
-
-      background: var(--gold);
-
-      margin: 55px auto;
-
-      opacity: 0.7;
-
-    }
-
-    footer {
-
-      text-align: center;
-
-      padding: 40px 20px;
-
-      border-top: 1px solid #55462f;
-
-      color: var(--muted);
-
-      font-size: 16px;
-
-    }
-
-    @media (max-width: 600px) {
-
-      header { padding: 75px 18px 55px; }
-
-      body { font-size: 19px; }
-
-      main { padding: 30px 20px 65px; }
-
-      h2 { font-size: 22px; }
-
-    }
-
-  </style>
-
-</head>
-
-<body>
-
-<header>
-
-  <div class="eyebrow">The House of De Cristofaro</div>
-
-  <h1>
-
-    Nobile Justin Narciso<br>
-
-    di Cristofaro dei Medici
-
-  </h1>
-
-  <p class="motto">Umbra Tenet Sanguinem</p>
-
-</header>
-
-<main>
-
-  <h2>The History of the House of De Cristofaro</h2>
-
-  <p>
-
-    The foundations of the lineage were established between the 11th and 14th centuries, originating as a patronymic devotion to Saint Christopher. By the 15th century, the family consolidated its elite status in Eboli, Salerno, where they constructed the fortified Palazzo Cristofaro. As urban patricians, the family held the rare right to maintain a consecrated private chapel within the palace walls—a property that also served as the adolescent home of the 17th-century global diplomat Matteo Ripa and is today preserved as an Italian national cultural monument.
-
-  </p>
-
-  <p>
-
-    As the house expanded its territorial and civic influence into Abruzzi e Molise, the family was formally inscribed in the Registro delle Piazze Chiuse (Register of Closed Assemblies). This membership granted hereditary patrician status, ensuring a vital role in regional civic governance, legislative voting, and judicial administration. The physical anchor of this era was the Castello di Monteodorisio in Chieti, Abruzzo, a massive 11th-century fortress, alongside the neoclassical Palazzo Fanghella-De Cristofaro, which served as the operational headquarters for the family’s private archives and land revenues.
-
-  </p>
-
-  <p>
-
-    The noble standing of the house was heavily reinforced through prominent dynastic alliances:
-
-  </p>
-
-  <h3>The House of Medici</h3>
-
-  <p>
-
-    On October 14, 1829, Lorenzo de Cristofaro married Donna Maria de’ Medici, a noble daughter of the historic Medici of Formicola cadet branch in Caserta. This alliance directly embedded the bloodline of the legendary patrons of the Italian Renaissance into the family tree.
-
-  </p>
-
-  <h3>The House de Florio</h3>
-
-  <p>
-
-    An alliance with this medieval dynasty—recognized among the elite Baronial Houses of the South since 1239—linked the family to the historic Baronies of Montagano in Molise.
-
-  </p>
-
-  <div class="divider"></div>
-
-  <h2>The New World Metamorphosis</h2>
-
-  <p>
-
-    Following the 1860 annexation of the South by the northern House of Savoy, the family maintained strict loyalty to the fallen Bourbon Crown. Faced with punitive real estate taxation that fractured their ancestral estates, the family chose a path of proud defiance. In the early 20th century, Pasquale De Cristofaro and his wife Nicoletta “Helen” de Florio initiated a strategic relocation to the United States, settling in Schenectady, New York.
-
-  </p>
-
-  <p>
-
-    In America, the family translated their traditional instinct for leadership into community mutual aid. They became the continuous operational and financial anchors of The Abruzzese Society of Schenectady, providing a crucial safety net for immigrant factory workers at General Electric and ALCO. This century-old archive was permanently donated to the Grems-Doolittle Library at the Schenectady County Historical Society in 2016, permanently preserving the family’s civic legacy.
-
-  </p>
-
-  <p>
-
-    The twentieth-century stewardship culminated with Justin’s grandfather, Joseph DiCristofaro, who extended the family’s visionary leadership into the frontiers of modern science by pioneering and managing the first dedicated nuclear medicine diagnostic unit in the southern United States on November 24, 1974.
-
-  </p>
-
-  <div class="divider"></div>
-
-  <p>
-
-    Today, Nobile Justin Narciso di Cristofaro dei Medici represents a contemporary generation of the House of De Cristofaro. An eccentric and notably private American philanthropist, he maintains a reclusive existence, preferring discretion in his personal and charitable affairs while remaining connected to the family’s centuries-old traditions.
-
-  </p>
-
-</main>
-
-<footer>
-
-  <p>House of De Cristofaro</p>
-
-  <p class="motto">Umbra Tenet Sanguinem</p>
-
-</footer>
-
-</body>
-
-</html
